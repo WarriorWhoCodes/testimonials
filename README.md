@@ -7,4 +7,4 @@ CodeVisors was my first encounter with any of the online tech forums. As a desig
 
 ### Prabhjeet Singh ~ Flutter Developer & Deep Learning
 CodeVisors is my first experience contributing technological knowledge and its projects. As a developer, I worked on some projects in many different areas by learning and contributing to many communities. But I joined this community because they work together on projects, researching any topics etc. That's the main reason, for helping and contributing my knowledge to the community.
-### [LinkedIN](https://www.linkedin.com/in/prabhjeet-singh-khokher/) [Twitter](https://twitter.com/Prabhjeet2911) [GitHub](https://github.com/prabhjeet2928)
+#### [LinkedIN](https://www.linkedin.com/in/prabhjeet-singh-khokher/) [Twitter](https://twitter.com/Prabhjeet2911) [GitHub](https://github.com/prabhjeet2928)
