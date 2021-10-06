@@ -7,7 +7,7 @@ CodeVisors was my first encounter with any of the online tech forums. As a desig
 ### Chirag Taneja ~ Python Developer
 During Hacktoberfest, Ankush mentored us. He is an excellent mentor and human being. He inspired us, and we learned a lot from him. He helped me create my first PR to collaborate on one of CodeVisor's Google Chrome extension projects.
 
-### [Linkedin](https://www.linkedin.com/in/chirag-taneja-b647981a4/) [Github](https://github.com/chiragtaneja04)
+#### [Linkedin](https://www.linkedin.com/in/chirag-taneja-b647981a4/) [Github](https://github.com/chiragtaneja04)
 
 ### Prabhjeet Singh ~ Flutter Developer & Deep Learning
 CodeVisors is my first experience contributing technological knowledge and its projects. As a developer, I worked on some projects in many different areas by learning and contributing to many communities. But I joined this community because they work together on projects, researching any topics etc. That's the main reason, for helping and contributing my knowledge to the community.
